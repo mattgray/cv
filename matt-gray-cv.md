@@ -1,7 +1,7 @@
 Matthew Gray
 ============
 
-matthew.thomas.gray@gmail.com
+<matthew.thomas.gray@gmail.com>
 <http://github.com/mattgray>
 
  Profile
@@ -12,24 +12,52 @@ etc
 Work Experience
 ---------------
 
-*   **Employer** (some place)
+*   **7digital** (London)
 
-    *Job 1*, 2015 - present
-
+    *Systems Administrator*, May 2014 - present
+    
+    Here is a paragraph
+    
     - bullet points
     - more of them
 
-    *Job 2*, 2014-2015
+    *Developer, API Team*, Jun 2012 - May 2014
 
     Also able to write in a non bullet-pointed style.
 
-*   **Employer - 1** (some place)
+*   **Pinesoft** (London)
 
-    *Job 3*, 2014-2015
+    *Software Developer*, 2014-2015
 
-    Here i did some things.
+    blah
 
-    That spanned multiple paragraphs.
+*   **Priocept** (London)
+
+    *Software Developer*, May - Sept 2010
+
+    blah
+
+*   **Funds Library** (Bristol)
+
+    *Software Developer*, Jun 2008 - May 2010
+
+    blah
+
+*   **Axisweb** (Leeds)
+
+    *Web Developer*, Feb 2007 - Jun 2008
+
+    blah
+
+*    **Artist's Access to Art Colleges**
+
+    *Web Developer (Freelance)*, 2006-2007
+
+*    **Solis - Sheffield Internet**
+
+    *Support / Developer*, Sept 2004 - Sept 2006
+
+    blah
 
 Education
 ---------
