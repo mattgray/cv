@@ -4,68 +4,52 @@ Matthew Gray
 matthew.thomas.gray@gmail.com
 <http://github.com/mattgray>
 
-Interests
----------
+ Profile
+--------
 
-*   Creating beautiful resumés from simple Markdown documents
-
+etc
 
 Work Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **Employer** (some place)
 
-    *Junior Resumé Maker*, 2006 - 2007
+    *Job 1*, 2015 - present
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    - bullet points
+    - more of them
 
-*   **\LaTeX\ + pdflatex**
+    *Job 2*, 2014-2015
 
-    *Senior Resumé Maker*, 2008 - 2010
+    Also able to write in a non bullet-pointed style.
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+*   **Employer - 1** (some place)
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+    *Job 3*, 2014-2015
 
-    *Web Resumé Intern*, August 2010
+    Here i did some things.
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
-
-*   **Markdown with Pandoc**
-
-    *Resumé Architect*, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
-
+    That spanned multiple paragraphs.
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **Blah blah** (blah)
 
-    *B.S. in Submodules*, May 2012
-
+    *B.S. in Makefiles*, May 2012
 
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
+Sure there must be something to go here
 
-*   Familiar with GNU Make, bash
+Interests
+---------
 
+Horses
+
+References
+----------
+
+Available on request
 
