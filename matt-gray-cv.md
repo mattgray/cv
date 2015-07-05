@@ -93,9 +93,15 @@ Work Experience
 Education
 ---------
 
-*   **Blah blah** (blah)
+*   **University of Bristol** (1999-2001)
 
-    *B.S. in Makefiles*, May 2012
+    *Certificate of Higher Education* I studied MSc Chemistry but left the
+    course due to ill health after successfully completing 2 years.
+
+*   **King Ecgbert School, Sheffield ** (1997-1999)
+
+    *A Level Maths, Physics, Chemistry, General Studies, A/S Level Further
+    Maths* All grade A.
 
 Skills
 ------
