@@ -23,24 +23,26 @@ Work Experience
     Building, testing, managing and improving the full range of 7digital's
     physical and virtual infrastructure. I joined the infrastructure team at
     7digital after working with them closely during my time on the API team.
-    
+
     - Windows and Linux server administration
     - Automation using Chef and CFEngine
     - Networking (Cisco / Juniper)
     - Testing / Test driven infrastructure using Test Kitchen
-    - Loadbalancing with nginx and haproxy
+    - Continuous Integration / Delivery
+    - Loadbalancing with Nginx and HAProxy
     - Maintaining large scale storage (Dell MD series, GlusterFS)
     - Managing and improving our logging platform, using Redis, Logstash and
       Elasticsearch
+    - Managing AWS infrastructure using Cloudformation / Troposphere
 
     *Developer, API Team*, Jun 2012 - May 2014
     
     In my time on the API team, I transitioned the API from a monolithic
     application to a series of internal APIs, with the public API remaining as a
     gateway to perform authentication, access control and other shared
-    functionality. I moved our request logging from SQL server to a system based
-    on Redis, Logstash and Elasticsearch. I helped with the our migration to a
-    new CDN provider. I spent 3 months working with the infrastructure team
+    functionality. I moved our request logging from SQL server to a new system
+    based on Redis, Logstash and Elasticsearch. I helped with the our migration
+    to a new CDN provider. I spent 3 months working with the infrastructure team
     automating and testing our Nginx and HAProxy external loadbalancer
     deployment.
 
