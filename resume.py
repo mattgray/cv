@@ -91,7 +91,7 @@ def tex(lines, contact_lines, *args):
     # just going to hardcode the two most common link formats for now so people
     # can put links in their contact info
     def replace_links(line):
-        line = re.sub(r"<([^:]+@[^:]+?)>", r"\href{mailto:\1}{\1}", line)
+        line = re.sub(r"<([^:]+@[^:]+?)>", r"\href{mailto:\1}{\\nolinkurl{\1}}", line)
         line = re.sub(r"<(http.+?)>", r"\url{\1}", line)
         return re.sub(r"\[([^\]]+)\]\(([^\)]+)\)", r"\href{\2}{\1}", line)
 
