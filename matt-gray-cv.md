@@ -14,11 +14,15 @@ Work Experience
 
 *   **7digital** (London)
 
-    7digital provides digital music catalogue, download and streaming services to a wide variety of B2B clients and direct to consumers through 7digital.com. Central to it's B2B offering is the 7digital API.
+    7digital provides digital music catalogue, download and streaming services
+    to a wide variety of B2B clients and direct to consumers through
+    7digital.com. Central to it's B2B offering is the 7digital API.
     
     *Systems Administrator*, May 2014 - present
     
-    Building, testing, managing and improving the full range of 7digital's physical and virtual infrastructure. I joined the infrastructure team at 7digital after working with them closely during my time on the API team.
+    Building, testing, managing and improving the full range of 7digital's
+    physical and virtual infrastructure. I joined the infrastructure team at
+    7digital after working with them closely during my time on the API team.
     
     - Windows and Linux server administration
     - Automation using Chef and CFEngine
@@ -26,17 +30,28 @@ Work Experience
     - Testing / Test driven infrastructure using Test Kitchen
     - Loadbalancing with nginx and haproxy
     - Maintaining large scale storage (Dell MD series, GlusterFS)
-    - Managing and improving our logging platform, using Redis, Logstash and Elasticsearch
+    - Managing and improving our logging platform, using Redis, Logstash and
+      Elasticsearch
 
     *Developer, API Team*, Jun 2012 - May 2014
     
-    In my time on the API team, I transitioned the API from a monolithic application to a series of internal APIs, with the public API remaining as a gateway to perform authentication, access control and other shared functionality. I moved our request logging from SQL server to a system based on Redis, Logstash and Elasticsearch. I helped with the our migration to a new CDN provider. I spent 3 months working with the infrastructure team automating and testing our Nginx and HAProxy external loadbalancer deployment.
+    In my time on the API team, I transitioned the API from a monolithic
+    application to a series of internal APIs, with the public API remaining as a
+    gateway to perform authentication, access control and other shared
+    functionality. I moved our request logging from SQL server to a system based
+    on Redis, Logstash and Elasticsearch. I helped with the our migration to a
+    new CDN provider. I spent 3 months working with the infrastructure team
+    automating and testing our Nginx and HAProxy external loadbalancer
+    deployment.
 
 *   **Pinesoft** (London)
 
     *Software Developer*, 2014-2015
 
-    Pinesoft developed software for the logistics industry. I worked in an agile, self-managing team replacing a legacy MSDOS system for a provider of pharmaceutical logistics, using C#, MSSQL, TDD, BDD, UN/LOCODE location data, Olson timezone database.
+    Pinesoft developed software for the logistics industry. I worked in an
+    agile, self-managing team replacing a legacy MSDOS system for a provider of
+    pharmaceutical logistics, using C#, MSSQL, TDD, BDD, UN/LOCODE location
+    data, Olson timezone database.
 
 *   **Priocept** (London)
 
@@ -48,7 +63,11 @@ Work Experience
 
     *Software Developer*, Jun 2008 - May 2010
 
-    Funds Library provides investor factsheets and fund information for mutual funds for a wide range of customers including Barclays Investment. I worked on all aspects of the platform, from integrating 3rd party data feeds to delivering information via a RESTful API. I used TDD to ensure the correctness of the data ingestion and processing.
+    Funds Library provides investor factsheets and fund information for mutual
+    funds for a wide range of customers including Barclays Investment. I worked
+    on all aspects of the platform, from integrating 3rd party data feeds to
+    delivering information via a RESTful API. I used TDD to ensure the
+    correctness of the data ingestion and processing.
 
 *   **Axisweb** (Leeds)
 
@@ -60,7 +79,8 @@ Work Experience
 
     *Web Developer (Freelance)*, 2006-2007
 
-    PHP / MySQL web development. Moved website from static hosting to CMS with custom extensions.
+    PHP / MySQL web development. Moved website from static hosting to CMS with
+    custom extensions.
 
 *    **Solis - Sheffield Internet**
 
