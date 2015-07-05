@@ -17,8 +17,8 @@ Work Experience
 *   **7digital** (London)
 
     7digital provides digital music catalogue, download and streaming services
-    to a wide variety of B2B clients and direct to consumers through
-    7digital.com. Central to it's B2B offering is the 7digital API.
+    to a wide variety of B2B clients via an HTTP api, as well as direct to
+    consumers through 7digital.com.
     
     *Systems Administrator*, May 2014 - present
     
