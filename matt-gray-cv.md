@@ -103,11 +103,6 @@ Education
     *A Level Maths, Physics, Chemistry, General Studies, A/S Level Further
     Maths* All grade A.
 
-Skills
-------
-
-Sure there must be something to go here
-
 Interests
 ---------
 
