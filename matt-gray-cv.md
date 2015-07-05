@@ -7,6 +7,10 @@ Matthew Gray
 Profile
 -------
 
+I enjoy solving problems using the appropriate technology. I am happy writing
+code, automating infrastructure, or collaborating with my colleagues to find
+solutions.
+
 Work Experience
 ---------------
 
