@@ -7,8 +7,6 @@ Matthew Gray
 Profile
 -------
 
-etc
-
 Work Experience
 ---------------
 
@@ -25,15 +23,18 @@ Work Experience
     7digital after working with them closely during my time on the API team.
 
     - Windows and Linux server administration
+    - Physical, virtual (KVM) and cloud (AWS) infrastructure
     - Automation using Chef and CFEngine
     - Networking (Cisco / Juniper), particularly first-hop redundancy using VRRP
     - Testing / Test driven infrastructure using Test Kitchen
     - Continuous Integration / Delivery
     - Loadbalancing with Nginx and HAProxy
     - Maintaining large scale storage (Dell MD series, GlusterFS)
-    - Managing and improving our logging platform, using Redis, Logstash and
-      Elasticsearch
+    - Managing and improving our logging platform, (Redis, Logstash and
+      Elasticsearch)
     - Managing AWS infrastructure using Cloudformation / Troposphere
+    - A small, agile team, collaborating with each other and the company
+      as a whole.
 
     *Developer, API Team*, Jun 2012 - May 2014
     
