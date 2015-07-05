@@ -34,9 +34,11 @@ Work Experience
     - Continuous Integration / Delivery
     - Loadbalancing with Nginx and HAProxy
     - Maintaining large scale storage (Dell MD series, GlusterFS)
-    - Managing and improving our logging platform, (Redis, Logstash and
+    - Managing and improving our logging platform (Redis, Logstash and
       Elasticsearch)
     - Managing AWS infrastructure using Cloudformation / Troposphere
+    - Diagnosing problems using Zabbix, application logs, and other sources of metrics
+    - Participated in 24/7 on-call rotation
     - A small, agile team, collaborating with each other and the company
       as a whole.
 
