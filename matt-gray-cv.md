@@ -48,7 +48,7 @@ Work Experience
 
 *   **Pinesoft** (London)
 
-    *Software Developer*, 2014-2015
+    *Software Developer*, Sept 2010 - May 2012
 
     Pinesoft developed software for the logistics industry. I worked in an
     agile, self-managing team replacing a legacy MSDOS system for a provider of
