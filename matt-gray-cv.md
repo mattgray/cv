@@ -26,7 +26,7 @@ Work Experience
 
     - Windows and Linux server administration
     - Automation using Chef and CFEngine
-    - Networking (Cisco / Juniper)
+    - Networking (Cisco / Juniper), particularly first-hop redundancy using VRRP
     - Testing / Test driven infrastructure using Test Kitchen
     - Continuous Integration / Delivery
     - Loadbalancing with Nginx and HAProxy
