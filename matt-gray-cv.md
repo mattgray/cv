@@ -114,8 +114,8 @@ Interests
 ---------
 
 I take an interest in technology and programming outside of my work, in
-particular functional programming. I have been working a little bit with the
-MirageOS unikernel framework, and presented a talk on this at the Devs in the
+particular functional programming. I have been learning about the MirageOS
+unikernel framework, and presented a talk on the subject at the Devs in the
 Ditch meetup.
 
 Outside of technology, I enjoy rock climbing and music.
