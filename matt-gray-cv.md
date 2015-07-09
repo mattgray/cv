@@ -29,13 +29,12 @@ Work Experience
     - Windows and Linux server administration
     - Physical, virtual (KVM) and cloud (AWS) infrastructure
     - Automation using Chef and CFEngine
-    - Networking (Cisco / Juniper), particularly first-hop redundancy using VRRP
+    - Networking (Cisco / Juniper) - VLAN, HSRP, MSTP
     - Testing / Test driven infrastructure using Test Kitchen
     - Continuous Integration / Delivery
-    - Loadbalancing with Nginx and HAProxy
+    - Loadbalancing with Nginx, HAProxy, Keepalived
     - Maintaining large scale storage (Dell MD series, GlusterFS)
-    - Managing and improving our logging platform (Redis, Logstash and
-      Elasticsearch)
+    - Managing and improving our logging platform (Redis, Logstash, Elasticsearch)
     - Managing AWS infrastructure using Cloudformation / Troposphere
     - Diagnosing problems using Zabbix, application logs, and other sources of metrics
     - Participated in 24/7 on-call rotation
